@@ -1,0 +1,15 @@
+.footer {
+  background-color: rgb(63, 80, 105);
+  padding: 10px 20px;
+}
+.insidefooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  color: aliceblue;
+}
+.thanks {
+  font-size: 20px;
+}
