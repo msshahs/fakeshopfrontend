@@ -25,7 +25,7 @@ const Page2 = () => {
     setproductdesc(productinfo);
   };
   const btochat = () => {
-    navigate("/");
+    navigate("/fakeshopfrontend/");
   };
   return (
     <div className="fcont">
