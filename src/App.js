@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
-        <Route exact path="/fakeshopfrontend/" element={<Page1 />} />
+        <Route exact path="/" element={<Page1 />} />
         <Route path="/fakeshopfrontend/productdetails" element={<Page2 />} />
       </Routes>
       <Footer />
