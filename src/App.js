@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route exact path="/" element={<Page1 />} />
-        <Route path="/fakeshopfrontend/productdetails" element={<Page2 />} />
+        <Route path="/productdetails" element={<Page2 />} />
       </Routes>
       <Footer />
     </div>
