@@ -74,7 +74,7 @@ const Page1 = () => {
                 <div className="image-container">
                   <div className="dummy"></div>
                   <a
-                    href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                    href={"fakeshopfrontend/productdetails?proid=" + val.id}
                     className="view-details"
                     id={val.id}
                   >
@@ -91,7 +91,7 @@ const Page1 = () => {
                   </div>
                   <div className="right">
                     <a
-                      href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                      href={"fakeshopfrontend/productdetails?proid=" + val.id}
                       className="view-details"
                       id={val.id}
                     >
@@ -117,7 +117,7 @@ const Page1 = () => {
                 <div className="image-container">
                   <div className="dummy"></div>
                   <a
-                    href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                    href={"fakeshopfrontend/productdetails?proid=" + val.id}
                     className="view-details"
                     id={val.id}
                   >
@@ -133,7 +133,7 @@ const Page1 = () => {
                   </div>
                   <div className="right">
                     <a
-                      href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                      href={"fakeshopfrontend/productdetails?proid=" + val.id}
                       className="view-details"
                       id={val.id}
                     >
@@ -159,7 +159,7 @@ const Page1 = () => {
                 <div className="image-container">
                   <div className="dummy"></div>
                   <a
-                    href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                    href={"fakeshopfrontend/productdetails?proid=" + val.id}
                     className="view-details"
                     id={val.id}
                   >
@@ -175,7 +175,7 @@ const Page1 = () => {
                   </div>
                   <div className="right">
                     <a
-                      href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                      href={"fakeshopfrontend/productdetails?proid=" + val.id}
                       className="view-details"
                       id={val.id}
                     >
@@ -201,7 +201,7 @@ const Page1 = () => {
                 <div className="image-container">
                   <div className="dummy"></div>
                   <a
-                    href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                    href={"fakeshopfrontend/productdetails?proid=" + val.id}
                     className="view-details"
                     id={val.id}
                   >
@@ -217,7 +217,7 @@ const Page1 = () => {
                   </div>
                   <div className="right">
                     <a
-                      href={"/fakeshopfrontend/productdetails?proid=" + val.id}
+                      href={"fakeshopfrontend/productdetails?proid=" + val.id}
                       className="view-details"
                       id={val.id}
                     >
